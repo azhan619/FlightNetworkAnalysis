@@ -1,5 +1,6 @@
 # FlightNetworkAnalysis
 
+Before downloading, check your windows and python versions, and then download correct file accordingly.
 
 Download basemap from here : https://www.lfd.uci.edu/~gohlke/pythonlibs/#basemap
   1. Make sure to download the file in the project folder.
